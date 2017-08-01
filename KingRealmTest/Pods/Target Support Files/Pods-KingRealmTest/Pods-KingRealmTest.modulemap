@@ -1,0 +1,6 @@
+framework module Pods_KingRealmTest {
+  umbrella header "Pods-KingRealmTest-umbrella.h"
+
+  export *
+  module * { export * }
+}

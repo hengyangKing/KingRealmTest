@@ -1,0 +1,11 @@
+platform :ios, '8.0'
+use_frameworks!
+
+target 'KingRealmTest' do
+ 
+	pod 'Realm'
+end
+target 'KingRealmTestTests' do
+    
+    pod 'Realm'
+end
